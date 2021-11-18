@@ -4,9 +4,9 @@
 ### This project is done as part of the Quantum Computation course assignment.
 
 Amal Francis V Ukken - B180445CS <br>
-Mathew Jose Mammootil - B180586CS
-Meenakshi Madhu - B180390CS
-Neelima Sajeev - B180632CS
-Sidharth Menon - B180561CS
+Mathew Jose Mammootil - B180586CS <br>
+Meenakshi Madhu - B180390CS <br>
+Neelima Sajeev - B180632CS <br>
+Sidharth Menon - B180561CS <br>
 Vishnu Sajith - B180474CS
 
