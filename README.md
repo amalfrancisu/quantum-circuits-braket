@@ -3,7 +3,7 @@
 
 ### This project is done as part of the Quantum Computation course assignment.
 
-Amal Francis V Ukken - B180445CS
+Amal Francis V Ukken - B180445CS <br>
 Mathew Jose Mammootil - B180586CS
 Meenakshi Madhu - B180390CS
 Neelima Sajeev - B180632CS
